@@ -1,0 +1,22 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.foxonfox.alive.theme",
+  "name": "Alive",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.1",
+  "description": "A smart theme that minimizes the tags and notes panels when they are not in use.",
+  "url": "https://cdn.jsdelivr.net/gh/foxonfox/alive-theme@master/dist/dist.css",
+  "download_url": "https://github.com/foxonfox/alive-theme/archive/1.0.0.zip",
+  "latest_url": "https://listed.to/p/cEGGQC8HKn",
+  "dock_icon": {
+      "type": "circle",
+      "background_color": "##f0f6f7",
+      "foreground_color": "#f0f6f7",
+      "border_color": "#f0f6f7"
+      },
+      "statusBar": "dark-content"
+}
