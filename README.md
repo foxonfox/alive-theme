@@ -1,1 +1,1 @@
-# Dynamic Theme
+# Alive Theme
